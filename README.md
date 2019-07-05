@@ -11,4 +11,4 @@ If you are interested in the MNIST-Dataset more, you will find detailed informat
 This work here is based on the very good explanation by Tariq Rashid about neural networks, so thank you for that great work.
 
 
-You will find the code in the file: first-nn-by-detecting-handwritten-characters.ipynb (https://github.com/robincodes/First-NN-by-Detecting-Handwritten-Characters/blob/master/first-nn-by-detecting-handwritten-characters.ipynb)
+You will find the code in the file: <b>first-nn-by-detecting-handwritten-characters.ipynb</b> (https://github.com/robincodes/First-NN-by-Detecting-Handwritten-Characters/blob/master/first-nn-by-detecting-handwritten-characters.ipynb)
