@@ -9,3 +9,6 @@ The dataset consists digits from 0 to 9 in a 28x28 pixel based format. The value
 If you are interested in the MNIST-Dataset more, you will find detailed information on Yann LeCun's website here. Next to the dataset explanation you will find a list of benchmarks for different classifiers and pre-processing approaches that were used with this dataset.
 
 This work here is based on the very good explanation by Tariq Rashid about neural networks, so thank you for that great work.
+
+
+You will find the code in the file: first-nn-by-detecting-handwritten-characters.ipynb (https://github.com/robincodes/First-NN-by-Detecting-Handwritten-Characters/blob/master/first-nn-by-detecting-handwritten-characters.ipynb)
